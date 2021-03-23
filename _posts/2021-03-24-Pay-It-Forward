@@ -2,12 +2,12 @@
 title: "Pay IT Forward - PWK Vouchers"
 author: munx
 header:
-  teaser: /assets/images/TBC.jpg ### NOT SURE WHAT TO PUT HERE - WHAT DO YOU SUGGEST? ###
+  teaser: /assets/images/payitforward/pwk.jpg
 excerpt_separator: "<!--more-->"
 categories:
  - Community
 tags:
- - OffensiveSecurity
+ - Offensive Security
  - PWK
  - OSCP
  - Paying It Forward
